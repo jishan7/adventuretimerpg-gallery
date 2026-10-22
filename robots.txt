@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jishan7.github.io/adventure-time-rpg-gallery/sitemap.xml
